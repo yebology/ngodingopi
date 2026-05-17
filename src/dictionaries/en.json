@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "ngodingopi — Freelance IT Web App Development",
+    "description": "We build modern, performant web applications tailored to your business needs. From landing pages to full-stack platforms."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Clients",
+    "about": "About",
+    "contact": "Contact",
+    "getInTouch": "Get in Touch"
+  },
+  "hero": {
+    "tagline": "IT Freelancer",
+    "title": "We Build Digital Products That",
+    "titleHighlight": "Drive Results",
+    "description": "From concept to deployment — we build websites, apps, and POS systems that help businesses grow. Clear communication, reliable delivery.",
+    "cta": "Start a Project",
+    "ctaSecondary": "See Our Clients"
+  },
+  "services": {
+    "title": "What We Do",
+    "subtitle": "We specialize in building digital products that help your business grow",
+    "items": [
+      {
+        "title": "Website",
+        "description": "From single-page landing sites to full multi-page platforms. Company profiles, portfolios, blogs, e-commerce — responsive, fast, and SEO-ready.",
+        "icon": "globe"
+      },
+      {
+        "title": "App",
+        "description": "Mobile and web applications for iOS, Android, and browsers. Dashboards, booking systems, CRM, SaaS — built cross-platform from a single codebase.",
+        "icon": "smartphone"
+      },
+      {
+        "title": "POS",
+        "description": "Point of Sale systems for retail, F&B, and service businesses. Manage transactions, inventory, and reporting — all in one place.",
+        "icon": "code"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Our Clients",
+    "subtitle": "Businesses that trust us with their digital products",
+    "items": [
+      {
+        "name": "Ciputra Golf Surabaya",
+        "description": "Golf club website",
+        "tags": ["Website"],
+        "logo": "/assets/cigolf.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "The person behind ngodingopi",
+    "description": "Hi, I'm Yobel — a developer with work experience across 4 countries. Now I'm putting that experience to work helping businesses build great digital products. Clear communication, delivered on time.",
+    "linkedin": "See my profile on LinkedIn",
+    "linkedinUrl": "https://linkedin.com/in/yobelnathanielfilipus",
+    "values": [
+      {
+        "title": "Quality Over Quantity",
+        "description": "I take on limited projects at a time so I can give each one my full attention and deliver my best work."
+      },
+      {
+        "title": "Straight Communication",
+        "description": "No jargon, no ghosting. You'll always know where your project stands and what's coming next."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "I use modern tools and frameworks to deliver quality work efficiently — so you get your product faster without sacrificing quality."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "subtitle": "Have a project in mind? Let's chat about it on WhatsApp.",
+    "cta": "Chat on WhatsApp",
+    "waMessage": "Hi, I'm interested in your web development services. Can we discuss my project?",
+    "response": "We typically respond within a few minutes"
+  },
+  "footer": {
+    "description": "Building modern web applications for businesses that want to grow.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "All rights reserved."
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}

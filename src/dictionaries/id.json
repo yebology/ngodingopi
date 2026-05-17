@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "ngodingopi — Jasa Pembuatan Web App IT Freelance",
+    "description": "Kami membangun aplikasi web modern dan performa tinggi sesuai kebutuhan bisnis Anda. Dari landing page hingga platform full-stack."
+  },
+  "nav": {
+    "home": "Beranda",
+    "services": "Layanan",
+    "portfolio": "Klien",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "getInTouch": "Hubungi Kami"
+  },
+  "hero": {
+    "tagline": "IT Freelancer",
+    "title": "Kami Membangun Produk Digital yang",
+    "titleHighlight": "Menghasilkan",
+    "description": "Dari konsep hingga deployment — kami membangun website, app, dan sistem POS yang membantu bisnis Anda berkembang. Komunikasi jelas, delivery andal.",
+    "cta": "Mulai Proyek",
+    "ctaSecondary": "Lihat Klien Kami"
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "subtitle": "Kami spesialis membangun produk digital yang membantu bisnis Anda berkembang",
+    "items": [
+      {
+        "title": "Website",
+        "description": "Dari landing page hingga platform multi-halaman. Company profile, portofolio, blog, e-commerce — responsif, cepat, dan SEO-ready.",
+        "icon": "globe"
+      },
+      {
+        "title": "App",
+        "description": "Aplikasi mobile dan web untuk iOS, Android, dan browser. Dashboard, sistem booking, CRM, SaaS — dibangun cross-platform dari satu codebase.",
+        "icon": "smartphone"
+      },
+      {
+        "title": "POS",
+        "description": "Sistem Point of Sale untuk retail, F&B, dan bisnis jasa. Kelola transaksi, inventori, dan laporan — semua dalam satu tempat.",
+        "icon": "code"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Klien Kami",
+    "subtitle": "Bisnis yang mempercayakan produk digital mereka kepada kami",
+    "items": [
+      {
+        "name": "Ciputra Golf Surabaya",
+        "description": "Website klub golf",
+        "tags": ["Website"],
+        "logo": "/assets/cigolf.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "Tentang",
+    "subtitle": "Orang di balik ngodingopi",
+    "description": "Hai, saya Yobel — developer dengan pengalaman kerja di 4 negara. Sekarang saya menggunakan pengalaman itu untuk membantu bisnis membangun produk digital yang berkualitas. Komunikasi jelas, deliver tepat waktu.",
+    "linkedin": "Lihat profil saya di LinkedIn",
+    "linkedinUrl": "https://linkedin.com/in/yobelnathanielfilipus",
+    "values": [
+      {
+        "title": "Kualitas di Atas Kuantitas",
+        "description": "Saya mengambil proyek terbatas agar bisa memberikan perhatian penuh dan menghasilkan karya terbaik."
+      },
+      {
+        "title": "Komunikasi Langsung",
+        "description": "Tanpa jargon, tanpa ghosting. Anda selalu tau progress proyek dan apa yang akan datang selanjutnya."
+      },
+      {
+        "title": "Delivery Cepat",
+        "description": "Saya menggunakan tools dan framework modern untuk deliver hasil berkualitas secara efisien — produk Anda jadi lebih cepat tanpa mengorbankan kualitas."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Mari Bekerja Sama",
+    "subtitle": "Punya proyek dalam pikiran? Yuk ngobrol lewat WhatsApp.",
+    "cta": "Chat di WhatsApp",
+    "waMessage": "Halo, saya tertarik dengan jasa web development Anda. Bisa diskusi tentang proyek saya?",
+    "response": "Kami biasanya merespons dalam hitungan menit"
+  },
+  "footer": {
+    "description": "Membangun aplikasi web modern untuk bisnis yang ingin berkembang.",
+    "quickLinks": "Tautan Cepat",
+    "connect": "Terhubung",
+    "rights": "Hak cipta dilindungi."
+  },
+  "theme": {
+    "light": "Terang",
+    "dark": "Gelap",
+    "system": "Sistem"
+  }
+}
