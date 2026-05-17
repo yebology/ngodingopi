@@ -3,7 +3,7 @@ export const LOCALES = ['en', 'id'] as const
 export type Locale = (typeof LOCALES)[number]
 
 /** Default locale when none is detected */
-export const DEFAULT_LOCALE: Locale = 'en'
+export const DEFAULT_LOCALE: Locale = 'id'
 
 /** Navigation links */
 export const NAV_LINKS = [
